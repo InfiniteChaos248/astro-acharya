@@ -1,0 +1,23 @@
+UI inspiration:
+https://jumaani.com/
+https://www.astrodevaraj.com/
+https://baskaraastrology.in/english/index.html
+
+
+consult.astroacharya@gmail.com
+
+create GoDaddy account and get rights to www.astroacharya.in
+create OCI account
+create PayPal account
+create Google Form - name, email, contact number, DOB - payment confirmation
+
+consultation page: link to Google Form, payment details (bank account details, UPI, PayPal)
+integrate calendar with Google Form
+
+
+home:
+Kanchi Mahaperiyavar
+By &lt;a href=&quot;//commons.wikimedia.org/w/index.php?title=User:Msb357d&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;User:Msb357d (page does not exist)&quot;&gt;Msb357d&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74526167">Link</a>
+
+Ucchista Maha Ganapathi
+<a href="https://commons.wikimedia.org/wiki/File:Ganesha_(28862909620).jpg">Dimitris Kamaras from Athens, Greece</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
